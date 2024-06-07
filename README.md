@@ -1,6 +1,6 @@
 # Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication
 
-### [[Project Page](https://yunuoch.github.io/Atlas3D/)] [[arXiv](https://arxiv.org/abs/xxxx.xxxxx)]
+### [[Project Page](https://yunuoch.github.io/Atlas3D/)] [[arXiv](https://arxiv.org/pdf/2405.18515)]
 
 Yunuo Chen<sup>1</sup>\*, Tianyi Xie<sup>1</sup>\*, Zeshun Zong<sup>1</sup>\*, Xuan Li<sup>1</sup>, Feng Gao<sup>2</sup>, Yin Yang<sup>3</sup>, Ying Nian Wu<sup>1</sup>, Chenfanfu Jiang<sup>1</sup><br>
 <sup>1</sup>University of California, Los Angeles, <sup>2</sup>Amazon<small><small><small>(This work is not related to F. Gao’s position at Amazon.)</small></small></small>, <sup>3</sup>University of Utah <br>
